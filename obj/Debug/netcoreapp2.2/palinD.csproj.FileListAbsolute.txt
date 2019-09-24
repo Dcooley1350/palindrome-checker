@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/palinD/obj/Debug/netcoreapp2.2/palinD.csprojAssemblyReference.cache
+/Users/Guest/Desktop/palinD/obj/Debug/netcoreapp2.2/palinD.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/palinD/obj/Debug/netcoreapp2.2/palinD.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/palinD/obj/Debug/netcoreapp2.2/palinD.AssemblyInfo.cs
+/Users/Guest/Desktop/palinD/bin/Debug/netcoreapp2.2/palinD.deps.json
+/Users/Guest/Desktop/palinD/bin/Debug/netcoreapp2.2/palinD.runtimeconfig.json
+/Users/Guest/Desktop/palinD/bin/Debug/netcoreapp2.2/palinD.runtimeconfig.dev.json
+/Users/Guest/Desktop/palinD/bin/Debug/netcoreapp2.2/palinD.dll
+/Users/Guest/Desktop/palinD/bin/Debug/netcoreapp2.2/palinD.pdb
+/Users/Guest/Desktop/palinD/obj/Debug/netcoreapp2.2/palinD.dll
+/Users/Guest/Desktop/palinD/obj/Debug/netcoreapp2.2/palinD.pdb
